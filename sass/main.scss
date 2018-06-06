@@ -1,0 +1,113 @@
+@import "common/variables";
+
+html, body {
+  background: transparent;
+}
+/*
+.page-pilates-harringtonpark {
+  .banner {
+    background-image: none !important;
+    padding-bottom: 90px;
+    position: relative;
+    
+    .awords-label {
+      position: absolute;
+      z-index: 1;
+      top: 0;
+    }
+    .wrapper {
+      position: absolute;
+      z-index: 1;
+      bottom: 10%;
+      left: 14%;
+      
+      @media (min-width:769px) and (max-width:1024px) {
+        left: 2%;
+      }
+      @media (max-device-width: 991px) {
+        left: 1%;
+        bottom: 20%;
+      }
+      @media only screen and (max-width: 749px) {
+        position: relative;
+        top: -10px;
+        left: 0;
+      }
+    }
+    .blue-caption {
+      @media (max-width: 767px) {
+        padding: 10px 0;
+      }
+    }
+    .banner-image {
+      @media only screen and (max-width: 749px) {
+        display: none;
+      }
+    }
+    @media (max-device-width: 991px) {
+      padding: 0;
+    }
+    @media only screen and (max-width: 749px) {
+      padding-bottom: 30px;
+    }
+  }
+  #feature-image-wrapper {
+    position: relative;
+    z-index: 0;
+    
+    video {
+      @media (max-device-width: 375px) {
+        display: none;
+      }
+    }
+    img {
+      @media (max-device-width: 375px) {
+        display: block !important;
+      }
+    }
+  }
+  .start-soon {
+    color: #000;
+  }
+  .banner .book-button,
+  .banner .opening,
+  .location .book-button,
+  .location .address {
+    display: none;
+  }
+  .ui-datepicker {
+    width: auto !important;
+  }
+  .ui-datepicker-calendar td {
+    a, span {
+      text-align: center !important;
+    }
+  }
+  img.healcode-registration-logo,
+  #bw-widget__schedules-68654595e2c .bw-widget__preheader,
+  #bw-widget__schedules-68654595e2c .bw-widget__footer {
+    display: none !important;
+  }
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 51%;
+  height: 0;
+  width: 100%;
+  overflow: hidden;
+  margin-bottom:40px;
+  
+  iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.button {
+  width: auto !important;
+}
+*/
